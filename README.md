@@ -5,11 +5,11 @@ Folder Structure Standar
 
 ### Top-level directory layout
 
-    ├── application             # Source files 
-    ├── container               # Docker files 
-    ├── deploy                  # Deploy files
-    ├── doc                     # Documentation files 
-    ├── test                    # Automated tests files 
+    ├── application/             # Source files 
+    ├── container/               # Docker files 
+    ├── deploy/                  # Deploy files
+    ├── doc/                     # Documentation files 
+    ├── test/                    # Automated tests files 
     ├── Makefile
     ├── CHANGELOG.md
     └── README.md
