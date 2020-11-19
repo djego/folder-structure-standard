@@ -5,7 +5,7 @@ Folder Structure Standar
 
 ### Top-level directory layout
 
-    ├── application/             # Source files 
+    ├── src/                     # Source files 
     ├── container/               # Docker files 
     ├── deploy/                  # Deploy files
     ├── doc/                     # Documentation files 
@@ -19,7 +19,7 @@ Folder Structure Standar
 
 ## Source files
 
-In `application` folder you can add the code of your application for example: 
+In `src` folder you can add the code of your application for example: 
 - Rails project: app, lib, config, db and more.
 - Django project: apps, manage.py and more.
 - Spring project: src/main, pom.xml and more.
